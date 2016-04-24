@@ -3,7 +3,7 @@ author:
   name: Patrick Steadman
   twitter: ptsteadman
   url: https://ptsteadman.com
-output: millennial-deep-state.html
+output: index.html
 controls: true
 style: basic.css
 
